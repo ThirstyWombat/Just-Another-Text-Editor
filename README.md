@@ -1,5 +1,7 @@
 # Just Another Text Editor
+![JATE](https://github.com/ThirstyWombat/Just-Another-Text-Editor/assets/122827259/8e632009-28a4-494f-9568-b029dc01498d)
 
+<a href="https://just-another-text-editor-client.onrender.com/">Just Another Text Editor</a>
 ## Description
 
 A progressive web app text editor that runs in the browser and can be installed.
